@@ -1,2 +1,2 @@
 # leetcode
-Record of some fast solutions in leetcode.
+Record of some solutions in leetcode.
